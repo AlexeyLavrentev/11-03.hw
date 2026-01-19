@@ -32,5 +32,6 @@
 
 ### Выполнение:
 
-<img width="1900" height="992" alt="image" src="https://github.com/user-attachments/assets/af54d8f1-8560-4005-aae6-1df6d632d266" />
+<img width="1903" height="946" alt="image" src="https://github.com/user-attachments/assets/3e8e2a43-3848-470b-9f74-1a9762bbeda5" />
+
 
